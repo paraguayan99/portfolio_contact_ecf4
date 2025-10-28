@@ -31,6 +31,10 @@
                         <li class="nav-item">
                             <a class="nav-link" href="index.php?controller=creation&action=index">Mes créations</a>
                         </li>
+                        <!-- Ajout du lien permettant d'accéder à la page Contact -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.php?controller=home&action=contact">Contact</a>
+                        </li>
                     </ul>
                 </div>
             </div>
